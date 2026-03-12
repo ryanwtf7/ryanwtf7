@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ryanwtf7&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ryanwtf7)
+<a href="https://app.daily.dev/ryanwtf7"><img src="https://api.daily.dev/devcards/v2/RMzSs5gtuUoPbhLnyyIH9.png?type=wide&r=3mw" width="652" alt="RY4N's Dev Card"/></a>
 
 # Hi there 👋
 
