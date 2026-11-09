@@ -2,15 +2,15 @@
 
 # Hi there 👋
 
-I'm Ryan, a passionate full-stack developer specializing in Discord bot development and cloud infrastructure. My passion for software lies in creating robust, scalable applications with clean code architecture. I take great care in the experience, performance, and code quality of everything I build.
+I'm Ryan, a full-stack developer specializing in backend and cloud infrastructure. I love building robust, scalable applications with clean code architecture, and I care deeply about the experience, performance, and code quality of everything I build.
 
-- 🔭 I'm currently working on [hianime-api](https://github.com/ryanwtf7/hianime-api) - A feature-rich anime API
+- 🔭 I'm currently working on [Zanix](https://zanix.tr) - an anime streaming platform where's you can watch anime for free
 - 🌱 I'm currently learning Rust, Go, and advanced Kubernetes orchestration
-- 👯 I'm looking to collaborate on open source Discord bots and cloud-native projects
-- 💬 Ask me about Discord.js, Node.js, TypeScript, or cloud infrastructure
-- 📫 How to reach me: [Email](mailto:ryanwtf88@gmail.com) | [Instagram](https://instagram.com/ryanwtf88) | [Discord](https://discord.com/users/1085376019445321829)
+- 👯 I'm looking to collaborate on open source web, backend, and cloud-native projects
+- 💬 Ask me about Node.js, TypeScript, REST APIs, or cloud infrastructure
+- 📫 How to reach me: [Email](mailto:ryan@zanix.tr) | [Discord](https://discord.com/users/985932799125115000)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I merge Hollow power, Shinigami technique, and Quincy precision in my code
+- ⚡ Fun fact: I build anime streaming platforms for web, mobile, and desktop
 
 ### Programming Languages:
 
@@ -173,6 +173,6 @@ I'm Ryan, a passionate full-stack developer specializing in Discord bot developm
 <a href="https://github.com/ryanwtf7/hianime-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanwtf7&theme=github_dark&repo=hianime-api&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 </a>
-<a href="https://github.com/ryanwtf7/trexzactyl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanwtf7&theme=github_dark&repo=trexzactyl&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+<a href="https://github.com/ryanwtf7/ryanlink">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanwtf7&theme=github_dark&repo=ryanlink&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 </a>
